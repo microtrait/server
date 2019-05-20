@@ -1,0 +1,4 @@
+[submodule "plugins/redis"]
+	path = plugins/redis
+	url = https://github.com/nrk/predis/
+	branch = v1.1
